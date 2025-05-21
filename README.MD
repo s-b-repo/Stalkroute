@@ -2,7 +2,6 @@
 
 > ⚡️ **Stealthy, Spoofing, Anti-Detection Traceroute for Advanced Pentesters & Red Teams**
 
-![stalkroute](https://user-images.githubusercontent.com/your-gh-user/stalkroute-banner.png)
 
 ---
 
@@ -106,7 +105,8 @@ This tool is intended **strictly for authorized security testing, research, and 
 
 ## Screenshots
 
-![screenshot](https://user-images.githubusercontent.com/s-b-repo/Stalkroute/main/Screenshot_20250521_225036.png)
+![screenshot](https://raw.githubusercontent.com/s-b-repo/Stalkroute/main/Screenshot_20250521_225036.png)
+
 ---
 
 
