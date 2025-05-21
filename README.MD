@@ -106,8 +106,7 @@ This tool is intended **strictly for authorized security testing, research, and 
 
 ## Screenshots
 
-![screenshot](https://user-images.githubusercontent.com/your-gh-user/stalkroute-screenshot.png)
-
+![screenshot](https://user-images.githubusercontent.com/s-b-repo/Stalkroute/main/Screenshot_20250521_225036.png)
 ---
 
 
